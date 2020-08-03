@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+
+?????? 0: 
+following github tutorial so I can make A star navigation for 2d game in Unity
